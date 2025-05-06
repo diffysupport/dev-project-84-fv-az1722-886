@@ -1,5 +1,5 @@
 basic:
-    name: 'Grady, Champlin and Wintheiser'
+    name: 'Reinger Inc'
     environments:
         production: 'https://google.com'
         staging: 'https://google.com'
